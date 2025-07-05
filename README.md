@@ -29,10 +29,3 @@ Last but not least: performance. If you followed all the steps above, your datab
 Creating an SQL database may seem like a daunting task at first, but with practice and attention to detail, it’s possible to build something that works well and is easy to maintain. Every project has its particularities, so the most important thing is to adapt these tips to your specific needs.
 
 Now, let’s get to work and create that well-structured database.
-
-## References
-
-1. [Database normalization: What it is and why it matters](https://www.alura.com.br/artigos/normalizacao-banco-de-dados)
-2. [How to improve database performance with indexes](https://www.devmedia.com.br/melhorando-a-performance-com-indices-no-sql-server/30425)
-3. [Best practices for database security](https://www.redhat.com/pt-br/topics/security/best-practices-for-database-security)
-4. [Backup strategies for databases](https://www.ionos.com/digitalguide/servidor/know-how/backup-de-banco-de-dados/)
